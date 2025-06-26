@@ -25,7 +25,7 @@ SpendWise is a mobile budgeting application developed for Android using Kotlin. 
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/spendwise.git
+git clone https://github.com/ST10371890/spendwise.git
 ```
 2. Open in Android Studio
 3. Build and run on an emulator or Android device
